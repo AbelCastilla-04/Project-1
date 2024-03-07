@@ -6,9 +6,8 @@ body {
 }
 
 header {
-	color: white;
+	color: rgb(95, 139, 155);
 	margin: 35px;
-	background-image: url("pictures\space.jpg");
 }
 
 img {
@@ -89,12 +88,4 @@ p {
 
 #sign:hover {
     background-color:rgb(64, 64, 64);
-}
-
-@media only screen and (min-width: 768px){
-
-}
-
-@media only screen and (min-width: 992px){
- 
 }
