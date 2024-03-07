@@ -26,9 +26,17 @@ p {
 }
 
 #main-content {
-	text-align: right;
+	margin: 0 auto;
 	max-width: 100%;
     padding: 20px;
+}
+
+#form {
+	text-align: center;
+}
+
+ol {
+	text-align: right;
 }
 
 #first-name {
