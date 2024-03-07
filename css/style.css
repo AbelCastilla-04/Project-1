@@ -98,6 +98,14 @@ p {
     float: right;
   }
   
+  #main {
+	text-align: center;  
+  }
+  
+  ol {
+	float: right;  
+  }
+  
   p {
 	width: 50%;  
   }
@@ -110,6 +118,10 @@ p {
 @media only screen and (min-width: 992px){
   #form {
     float: right;
+  }
+  
+  #main {
+	text-align: center;  
   }
   
   p {
