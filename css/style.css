@@ -72,17 +72,19 @@ p {
     padding: 18px;
 }
 
-#submit {
+#e-sign {
 	margin: 20px;
+	padding: 10px;
 	font-weight: bold;
-    padding: 18px;
-	border-radius: 8px;
-	color: white;
-    background-color: black;
 }
 
-#submit:hover {
-    background-color: grey;
+#sign {
+	border: none;
+	border-radius: 8px;
+    font-weight: bold;
+    padding: 18px;
+	color: white;
+    background-color: black;
 }
 
 //**
