@@ -6,7 +6,7 @@ body {
 }
 
 header {
-	background-image: url("space.jpg");
+	background-image: "pictures/space.jpg";
 }
 
 img {
