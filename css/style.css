@@ -29,3 +29,39 @@ p {
     margin: 0 auto;
     padding: 20px;
 }
+
+#first-name {
+	margin: 20px;
+	font-weight: bold;
+}
+
+#firstName {
+	border: none;
+	border-radius: 8px;
+    font-weight: bold;
+    padding: 18px;
+}
+
+#last-name {
+	margin: 20px;
+	font-weight: bold;
+}
+
+#lastName {
+	border: none;
+	border-radius: 8px;
+    font-weight: bold;
+    padding: 18px;
+}
+
+#e-mail {
+	margin: 20px;
+	font-weight: bold;
+}
+
+#email {
+	border: none;
+	border-radius: 8px;
+    font-weight: bold;
+    padding: 18px;
+}
