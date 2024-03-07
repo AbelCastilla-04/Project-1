@@ -9,21 +9,16 @@ header {
 	background-image: url("pictures/space.jpg");
 }
 
-#main-content {
-	margin: 0 auto;
-	max-width: 100%;
-    padding: 20px;
-}
-
 img {
 	height: 516px;
 	width: 665px;
 	border-radius: 8px;
-	text-align: left;
+	float: left;
 }
 
 #form {
-	text-align: right;
+	float: right;
+	text-align: center;
 }
 
 h1 {
