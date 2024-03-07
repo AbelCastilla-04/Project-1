@@ -76,6 +76,7 @@ p {
 	margin: 20px;
 	font-weight: bold;
     padding: 18px;
+	border-radius: 8px;
 	color: white;
     background-color: black;
 }
