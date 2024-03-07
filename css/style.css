@@ -6,7 +6,10 @@ body {
 }
 
 header {
+	color: white;
 	background-image: url("pictures\space.jpg");
+	width: 50%;
+	height: 1.2em;
 }
 
 img {
