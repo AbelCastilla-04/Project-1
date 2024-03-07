@@ -37,41 +37,18 @@ p {
 	
 }
 
-#first-name {
+#first-name, #last-name, #e-mail {
 	margin: 20px;
 	font-weight: bold;
 }
 
-#firstName {
+#firstName, #lastName, #email {
+	
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
     padding: 18px;
-}
-
-#last-name {
-	margin: 20px;
-	font-weight: bold;
-}
-
-#lastName {
-	border: none;
-	border-radius: 8px;
-    font-weight: bold;
-    padding: 18px;
-}
-
-#e-mail {
-	margin: 20px;
-	padding: 20px;
-	font-weight: bold;
-}
-
-#email {
-	border: none;
-	border-radius: 8px;
-    font-weight: bold;
-    padding: 18px;
+	text-align: center; 
 }
 
 #e-sign {
@@ -101,10 +78,7 @@ p {
   #main {
 	text-align: center;  
   }
-  
-  ol {
-	float: right;  
-  }
+ 
   
   p {
 	width: 50%;  
@@ -118,10 +92,6 @@ p {
 @media only screen and (min-width: 992px){
   #form {
     float: right;
-  }
-  
-  #main {
-	text-align: center;  
   }
   
   p {
