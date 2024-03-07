@@ -37,13 +37,38 @@ p {
 	
 }
 
-#first-name, #last-name, #e-mail {
+#first-name {
 	margin: 20px;
 	font-weight: bold;
 }
 
-#firstName, #lastName, #email {
-	
+#firstName {
+	border: none;
+	border-radius: 8px;
+    font-weight: bold;
+    padding: 18px;
+	text-align: center; 
+}
+
+#last-name {
+	margin: 20px;
+	font-weight: bold;
+}
+
+#lastName {
+	border: none;
+	border-radius: 8px;
+    font-weight: bold;
+    padding: 18px;
+	text-align: center; 
+}
+
+#e-mail {
+	margin: 20px;
+	font-weight: bold;
+}
+
+#email {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
@@ -71,24 +96,7 @@ p {
 }
 
 @media only screen and (min-width: 768px){
-  #form {
-    float: right;
-  }
-  
-  #main {
-	text-align: center;  
-  }
- 
-  
-  p {
-	width: 50%;  
-	float: right;
-  }
 	
-  #img{
-	float: left;
-  )
-}
 
 @media only screen and (min-width: 992px){
   #form {
