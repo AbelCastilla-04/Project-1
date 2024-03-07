@@ -97,6 +97,10 @@ p {
   #form {
     float: right;
   }
+  
+  p {
+	width: 50%;  
+  }
 	
   #img{
 	float: left;
@@ -106,6 +110,10 @@ p {
 @media only screen and (min-width: 992px){
 	#form {
     float: right;
+  }
+  
+  p {
+	width: 50%;  
   }
 	
   #img {
