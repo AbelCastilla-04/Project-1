@@ -6,7 +6,7 @@ body {
 }
 
 header {
-	background-image: url("pictures/space.jpg");
+	background-image: url("space.jpg");
 }
 
 img {
@@ -86,9 +86,12 @@ ol {
     background-color: grey;
 }
 
+//*
+
 @media only screen and (min-width: 700px)
 #form {
 	float: right;
 	
 #form {
 	float: left;
+//
