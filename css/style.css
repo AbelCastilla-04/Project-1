@@ -13,11 +13,9 @@ img {
 	height: 516px;
 	width: 665px;
 	border-radius: 8px;
-	float: left;
 }
 
 #form {
-	float: right;
 	text-align: center;
 }
 
@@ -33,6 +31,7 @@ p {
 	font-size: 25px;
 	padding: 20px;
 	margin: 20px;
+	
 }
 
 ol {
@@ -74,3 +73,22 @@ ol {
     font-weight: bold;
     padding: 18px;
 }
+
+#submit {
+	margin: 20px;
+	font-weight: bold;
+	padding: 10px;
+	color: white;
+    background-color: black;
+}
+
+#submit:hover {
+    background-color: grey;
+}
+
+@media only screen and (min-width: 700px)
+#form {
+	float: right;
+	
+#form {
+	float: left;
