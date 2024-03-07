@@ -83,7 +83,7 @@ p {
     background-color: grey;
 }
 
-//*
+//**
 
 @media only screen and (min-width: 700px)
 #form {
@@ -91,4 +91,4 @@ p {
 	
 #form {
 	float: left;
-//
+**//
