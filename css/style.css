@@ -5,6 +5,11 @@ body {
 	text-align: center;
 }
 
+img {
+	height: 397px;
+	width: 512px;
+}
+
 h1 {
 	font-family: "Oswald", sans-serif;
 	font-weight: bold;
