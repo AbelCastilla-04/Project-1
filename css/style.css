@@ -82,6 +82,7 @@ p {
   
   p {
 	width: 50%;  
+	float: right;
   }
 	
   #img{
@@ -95,7 +96,8 @@ p {
   }
   
   p {
-	width: 50%;  
+	width: 50%; 
+    float: right;	
   }
 	
   #img {
