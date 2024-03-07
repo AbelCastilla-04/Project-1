@@ -5,6 +5,10 @@ body {
 	text-align: center;
 }
 
+header {
+	background-image: url("pictures/space.jpg");
+}
+
 #main-content {
 	margin: 0 auto;
 	max-width: 100%;
