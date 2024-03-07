@@ -15,10 +15,11 @@ img {
 	height: 516px;
 	width: 665px;
 	border-radius: 8px;
+	text-align: left;
 }
 
 #form {
-	text-align: center;
+	text-align: right;
 }
 
 h1 {
