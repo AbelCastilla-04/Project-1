@@ -1,6 +1,6 @@
 document.addEventListener("JSfeature", function() {
     const form = document.getElementById("form");
-    form.addEventListener("submit", function(event) {
+    form.addEventListener("sign", function(event) {
         event.preventDefault();
         const fstname = document.getElementById("firstName").value;
 		const lstname = document.getElementById("lastName").value;
