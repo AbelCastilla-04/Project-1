@@ -1,12 +1,6 @@
-document.addEventListener("JSfeature", function() {
-    const form = document.getElementById("form");
-    form.addEventListener("sign", function(event) {
-        event.preventDefault();
-        const fstname = document.getElementById("firstName").value;
-		const lstname = document.getElementById("lastName").value;
-        const email = document.getElementById("email").value;
-        console.log("First Name:", fstname);
-		console.log("Last Name:", lstname);
-        console.log("Email:", email);
-    });
-});
+function output() {
+  var fstName = document.getElementById("firstName").value;
+  var lstName = document.getElementById("lastName").value;
+  var email = document.getElementById("email").value;
+  alert("Thanks for signing up " + fstName + " " + lstName + "!" + "E-mail: " + email);
+}
