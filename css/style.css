@@ -89,3 +89,15 @@ p {
 #sign:hover {
     background-color:rgb(64, 64, 64);
 }
+
+@media only screen and (min-width: 600px) {
+    body {
+        padding: 40px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    body {
+        padding: 60px;
+    }
+}
