@@ -36,6 +36,11 @@ p {
 	margin: 20px;
 }
 
+label {
+	display: block;
+	margin: 5px;
+}
+
 #first-name {
 	margin: 20px;
 	font-weight: bold;
