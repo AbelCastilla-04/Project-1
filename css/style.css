@@ -1,5 +1,5 @@
 body {
-	font-family: "Oswald", sans-serif;
+	font-family: "Oswald", helvetica;
 	background-color: rgb(224, 224, 224);
 	padding: 20px;
 	text-align: center;
@@ -23,7 +23,7 @@ img {
 }
 
 h1 {
-	font-family: "Oswald", sans-serif;
+	font-family: "Oswald", helvetica;
 	font-weight: bold;
 	font-size: 40px;
 	margin: 20px;
