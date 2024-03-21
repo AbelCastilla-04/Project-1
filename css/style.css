@@ -7,11 +7,11 @@ body {
 
 header {
 	color: rgb(95, 139, 155);
-	margin: 35px;
+	margin: auto;
 }
 
 img {
-	margin: 35px;
+	margin: auto;
 	height: 516px;
 	width: 665px;
 	border-radius: 8px;
@@ -26,23 +26,23 @@ h1 {
 	font-family: "Oswald", helvetica;
 	font-weight: bold;
 	font-size: 40px;
-	margin: 20px;
+	margin: auto;
 }
 
 p {
 	font-family: 'Times New Roman', Arial;
 	font-size: 25px;
 	padding: 20px;
-	margin: 20px;
+	margin: auto;
 }
 
 label {
 	display: block;
-	margin: 5px;
+	margin: auto;
 }
 
 #first-name {
-	margin: 20px;
+	margin: auto;
 	font-weight: bold;
 }
 
@@ -54,7 +54,7 @@ label {
 }
 
 #last-name {
-	margin: 20px;
+	margin: auto;
 	font-weight: bold;
 }
 
@@ -66,7 +66,7 @@ label {
 }
 
 #e-mail {
-	margin: 20px;
+	margin: auto;
 	font-weight: bold;
 }
 
@@ -78,7 +78,7 @@ label {
 }
 
 #e-sign {
-	margin: 20px;
+	margin: auto;
 	padding: 10px;
 	font-weight: bold;
 }
@@ -107,7 +107,6 @@ label {
 	
 	p {
 	  width: 500px;
-	  margin: auto;
 	}
 }
 
@@ -121,7 +120,6 @@ label {
 	}
 	
 	p {
-	  width: 500px;
-	  margin: auto;
+	  width: 700px;
 	}
 }
