@@ -1,81 +1,81 @@
 body {
-	width: 90%;
-	background-color: rgb(224, 224, 224);
-	display: block;
-	text-align: center;
+  width: 90%;
+  background-color: rgb(224, 224, 224);
+  display: block;
+  text-align: center;
 }
 
 header {
-	color: rgb(95, 139, 155);
-	text-align: center;
-	margin: 35px;
+  color: rgb(95, 139, 155);
+  text-align: center;
+  margin: 35px;
 }
 
 img {
-	text-align: center;
-	height: 516px;
-	width: 665px;
-	border-radius: 8px;
+  text-align: center;
+  height: 516px;
+  width: 665px;
+  border-radius: 8px;
 }
 
 #form {
-	text-align: center;
+  text-align: center;
 }
 
 h1 {
-	font-family: "Oswald", helvetica;
-	text-align: center;
-	font-weight: bold;
-	margin: 35px;
-	font-size: 40px;
+  font-family: "Oswald", helvetica;
+  text-align: center;
+  font-weight: bold;
+  margin: 35px;
+  font-size: 40px;
 }
 
 p {
-	font-family: 'Times New Roman', Arial;
-	font-size: 25px;
-	margin: 35px;
-	text-align: center;
+  font-family: 'Times New Roman', Arial;
+  font-size: 25px;
+  margin: 35px;
+  text-align: center;
 }
 
 label {
-	display: block;
-	font-size: 25px;
-	margin: 20px;
-	font-weight: bold;
-	text-align: center;
+  display: block;
+  font-size: 25px;
+  margin: 20px;
+  font-weight: bold;
+  text-align: center;
 }
 
 input {
-	border: none;
-	margin: 20px;
-	text-align: center;
-	border-radius: 8px;
-    font-weight: bold;
-    padding: 25px;
+  border: none;
+  margin: 20px;
+  text-align: center;
+  border-radius: 8px;
+  font-weight: bold;
+  padding: 25px;
 } 
 
 
 #e-sign {
-	margin: 20px;
-	font-weight: bold;
+  margin: 20px;
+  font-weight: bold;
 }
 
 #sign {
-	border: none;
-	border-radius: 8px;
-    font-weight: bold;
-    padding: 35px;
-	color: white;
-    background-color: black;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  padding: 35px;
+  color: white;
+  background-color: black;
 }
 
 #sign:hover {
-    background-color:rgb(64, 64, 64);
+  background-color:rgb(64, 64, 64);
 }
 
 @media only screen and (min-width: 600px) {
 	header {
-		font-size: 45px;
+	  font-size: 45px;
 	}
 	
 	p {
@@ -86,7 +86,7 @@ input {
 
 @media only screen and (min-width: 768px) {
 	header {
-		font-size: 55px;
+	  font-size: 55px;
 	}
 	
 	p {
