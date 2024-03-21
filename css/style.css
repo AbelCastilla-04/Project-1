@@ -10,43 +10,45 @@ header {
 }
 
 img {
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 	height: 516px;
 	width: 665px;
 	border-radius: 8px;
 }
 
 #form {
-	text-align: center;
 	width: 90%;
 }
 
 h1 {
 	font-family: "Oswald", helvetica;
+	text-align: center;
 	font-weight: bold;
 	font-size: 40px;
-	margin: 25px;
 }
 
 p {
 	font-family: 'Times New Roman', Arial;
 	font-size: 25px;
-	margin: 25px;
+	text-align: center;
 }
 
 label {
 	display: block;
 	font-size: 25px;
-	margin: 20px;
+	margin-left: auto;
+	margin-right: auto;
 	font-weight: bold;
 	text-align: center;
 }
 
 input {
-	text-align: center;
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
     padding: 25px;
 } 
 
