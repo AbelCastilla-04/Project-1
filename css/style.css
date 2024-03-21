@@ -1,17 +1,17 @@
 body {
 	font-family: "Oswald", helvetica;
 	background-color: rgb(224, 224, 224);
-	padding: 20px;
+	padding: auto;
 	text-align: center;
 }
 
 header {
 	color: rgb(95, 139, 155);
-	margin: auto;
+	margin: 30px;
 }
 
 img {
-	margin: auto;
+	margin: 20px;
 	height: 516px;
 	width: 665px;
 	border-radius: 8px;
@@ -26,23 +26,23 @@ h1 {
 	font-family: "Oswald", helvetica;
 	font-weight: bold;
 	font-size: 40px;
-	margin: auto;
+	margin: 25px;
 }
 
 p {
 	font-family: 'Times New Roman', Arial;
 	font-size: 25px;
-	padding: 20px;
-	margin: auto;
+	padding: auto;
+	margin: 25px;
 }
 
 label {
 	display: block;
-	margin: auto;
+	margin: 20px;
 }
 
 #first-name {
-	margin: auto;
+	margin: 20px;
 	font-weight: bold;
 }
 
@@ -50,11 +50,11 @@ label {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
-    padding: 18px;
+    padding: auto;
 }
 
 #last-name {
-	margin: auto;
+	margin: 20px;
 	font-weight: bold;
 }
 
@@ -62,11 +62,11 @@ label {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
-    padding: 18px;
+    padding: auto;
 }
 
 #e-mail {
-	margin: auto;
+	margin: 20px;
 	font-weight: bold;
 }
 
@@ -74,12 +74,12 @@ label {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
-    padding: 18px;
+    padding: auto;
 }
 
 #e-sign {
-	margin: auto;
-	padding: 10px;
+	margin: 20px;
+	padding: auto;
 	font-weight: bold;
 }
 
@@ -87,7 +87,7 @@ label {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
-    padding: 18px;
+    padding: auto;
 	color: white;
     background-color: black;
 }
@@ -97,10 +97,6 @@ label {
 }
 
 @media only screen and (min-width: 600px) {
-    body {
-        padding: 40px;
-    }
-	
 	header {
 		font-size: 45px;
 	}
@@ -111,12 +107,8 @@ label {
 }
 
 @media only screen and (min-width: 768px) {
-    body {
-        padding: 60px;
-    }
-	
 	header {
-		font-size: 50px;
+		font-size: 55px;
 	}
 	
 	p {
