@@ -32,7 +32,6 @@ h1 {
 p {
 	font-family: 'Times New Roman', Arial;
 	font-size: 25px;
-	padding: auto;
 	margin: 25px;
 }
 
@@ -48,7 +47,7 @@ input {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
-    padding: auto;
+    padding: 50px;
 } 
 
 
@@ -62,7 +61,7 @@ input {
 	border: none;
 	border-radius: 8px;
     font-weight: bold;
-    padding: auto;
+    padding: 25px;
 	color: white;
     background-color: black;
 }
@@ -88,5 +87,6 @@ input {
 	
 	p {
 	  width: 700px;
+	  padding: auto;
 	}
 }
